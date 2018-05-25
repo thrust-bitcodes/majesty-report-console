@@ -1,0 +1,10 @@
+{
+  "description": "Authentication and authorization tests",
+  "name": "auth-test",
+  "author": "Bruno Machado",
+  "dependencies": {
+    "bitcodes": [
+      "thrust-bitcodes/majesty"
+    ]
+  }
+}
